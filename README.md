@@ -7,7 +7,7 @@ This toolkit leverages deep learning models like Vision Transformers (ViTs) and 
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/Amit-Rohila33/Archaeological-Artifact-Analysis-Toolkit
 cd Archaeological-Artifact-Analysis-Toolkit
 pip install -r requirements.txt
 
